@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Có Đường Link của 12x2</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        a {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: white;
+            background-color: blue;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        a:hover {
+            background-color: darkblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chào mừng bạn đến với trang web</h1>
+    <p>Nhấp vào nút bên dưới để truy cập đường link:</p>
+    <a href="https://disk.yandex.com/d/JkFlCH5pye4OuQ" target="_blank">Truy cập ngay</a>
+    <a href="https://disk.yandex.com/d/pjtL9h6cWaWk6A" target="_blank">Truy cập ngay</a>
+</body>
+</html>
